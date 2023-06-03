@@ -1,0 +1,73 @@
+[{
+  "user": "Elon Musk",
+  "tweets": 777,
+  "followers": 100500,
+  "avatar": "https://image.cnbcfm.com/api/v1/image/107083077-1656593419933-gettyimages-1395062617-t_w16437_4934a878-972d-4bea-b6ef-b61f4ceeb787.jpeg?v=1682101376",
+  "isFollowing": false
+  },{
+    "user": "Bill Gates",
+    "tweets": 648,
+    "followers": 100001,
+    "avatar": "https://static01.nyt.com/images/2021/05/17/business/14altGates-print/14Gates--top-mediumSquareAt3X.jpg",
+    "isFollowing": false
+  },{
+    "user": "Keanu Reeves",
+    "tweets": 604,
+    "followers": 22800,
+    "avatar": "https://deadline.com/wp-content/uploads/2023/03/Keanu-Reeves-john-wick-4.jpg?w=1024",
+    "isFollowing": false
+  },{
+    "user": "Joe Biden",
+    "tweets": 750,
+    "followers": 50000,
+    "avatar": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/3NWZQJCGQ5JCHHZPYP5CAUBEYU.jpg",
+    "isFollowing": false
+  },{
+    "user": "Laetitia Wright",
+    "tweets": 333,
+    "followers": 1050,
+    "avatar": "https://assets.ynap-content.com/story-head-content-1-1602516722836.jpeg",
+    "isFollowing": false
+  },{
+    "user": "Mark Zuckerberg",
+    "tweets": 734,
+    "followers": 10000,
+    "avatar": "https://media.glamourmagazine.co.uk/photos/6138b2992b5bbea00829320c/1:1/w_1280,h_1280,c_limit/mark-zuckerberg_glamour_26jan16_pa_b.jpg",
+    "isFollowing": false
+  },{
+    "user": "Morgan Freeman",
+    "tweets": 999,
+    "followers": 999999,
+    "avatar": "https://images.hindustantimes.com/rf/image_size_800x600/HT/p2/2015/11/06/Pictures/film-bruce-almighty-2003-morgan-freeman-god_6bb786ac-847f-11e5-b16a-72c3890db210.jpg",
+    "isFollowing": false
+  },{
+    "user": "Robert Downey Jr.",
+    "tweets": 778,
+    "followers": 100600,
+    "avatar": "https://quenoticias.com/wp-content/uploads/2022/04/robert-downey-jr-e1650901222142.jpg",
+    "isFollowing": false
+  },{
+    "user": "Robert De Niro",
+    "tweets": 777,
+    "followers": 100500,
+    "avatar": "https://interesnyefakty.org/wp-content/uploads/robert-de-niro.jpg",
+    "isFollowing": false
+  },{
+    "user": "Al Pacino",
+    "tweets": 758,
+    "followers": 10200,
+    "avatar": "https://imagenes.elpais.com/resizer/1v636v_udyzoPlNUlNpVjSDjVs0=/1960x1470/arc-anglerfish-eu-central-1-prod-prisa.s3.amazonaws.com/public/X3FY2EJKRRD5ZBZPINZ6NGVULQ.jpg",
+    "isFollowing": false
+  },{
+    "user": "Meryl Streep",
+    "tweets": 777,
+    "followers": 100500,
+    "avatar": "https://media.allure.com/photos/62b4b7f0e0cb6a4db04b319d/4:3/w_2664,h_1998,c_limit/6-23%20meryl%20streep.jpg",
+    "isFollowing": false
+  },{
+    "user": "Toby Fox",
+    "tweets": 334,
+    "followers": 10060,
+    "avatar": "https://upload.wikimedia.org/wikiversity/en/8/8e/TobyFox.png",
+    "isFollowing": false
+  }]
